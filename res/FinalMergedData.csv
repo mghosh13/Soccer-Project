@@ -1,4 +1,4 @@
-name,xG,goal,games,team_title,time,League,goals per 90 mins,npg per 90 mins,npxG per 90 mins,shots per 90 mins,xG per 90 mins,xGBuildup per 90 mins,xGChain per 90 mins
+name,World Cup xG,World Cup goals,games,team_title,time,League,goals per 90 mins,npg per 90 mins,npxG per 90 mins,shots per 90 mins,xG per 90 mins,xGBuildup per 90 mins,xGChain per 90 mins
 Aaron Mooy,0.09,0,29.0,Huddersfield,2326.0,English Premier League,0.11607910576096304,0.07738607050730867,0.06419789562560778,1.6638005159071363,0.09364982829080863,0.13471502581689754,0.201850083447602
 Achraf Hakimi,0.06,0,21.0,Borussia Dortmund,1740.0,Bundesliga,0.10344827586206896,0.10344827586206896,0.08718109699287291,1.0344827586206895,0.08718109699287291,0.4345391263607247,0.5642467454589647
 Adem Ljajic,0.06,0,1.0,Torino,27.0,Serie A,0.0,0.0,0.22317200899124148,6.666666666666666,0.22317200899124148,0.36713113387425744,0.5903031428654988
